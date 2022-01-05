@@ -77,9 +77,11 @@ height: 834px;
     position: absolute;
     left: 1085px;
     top: 715px;
+    z-index: 1000;
 }
 .left{
     position: absolute;
     left: 80px;
     top: 715px;
+    z-index: 1000;
 }
